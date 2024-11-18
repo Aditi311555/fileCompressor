@@ -1,5 +1,4 @@
 # fileCompressor
-Here's a more concise **README.md** for your **File Compressor Project using Huffman Coding**:
 
 ---
 
